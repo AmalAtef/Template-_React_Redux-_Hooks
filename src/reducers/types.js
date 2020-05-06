@@ -1,0 +1,4 @@
+export default {
+  FETCH_PRODUCTS: "FETCH_PRODUCTS",
+  ADD_PRODUCT: "ADD_PRODUCT"
+};
